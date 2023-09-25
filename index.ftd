@@ -108,7 +108,7 @@ isNewTab: true
 spacing.fixed.px: 10
 
 -- social.social-button-wrapper:
-link: https://linkedin.com/in/Sanjay_Choudhary
+link: https://linkedin.com/in/sanjay-choudhary-907954203/
 image: $assets.files.images.linkedin.png
 
 -- social.social-button-wrapper:
@@ -210,7 +210,7 @@ isNewTab: true
 spacing.fixed.px: 10
 
 -- social.social-button-wrapper:
-link: https://linkedin.com/in/sanjay_007
+link: https://linkedin.com/in/sanjay-choudhary-907954203/
 image: $assets.files.images.linkedin.png
 
 -- social.social-button-wrapper:
@@ -222,11 +222,11 @@ link: https://github.com/Sanjuuu12
 image: $assets.files.images.github.png
 
 -- social.social-button-wrapper:
-link: https://instagram.com/YOUR_INSTAGRAM_USERNAME
+link: https://instagram.com/___sanjuu._/
 image: $assets.files.images.instagram.png
 
 -- social.social-button-wrapper:
-link: mailto:YOUR_EMAIL_ADDRESS
+link: mailto:sanjay.vds.choudhary07@gmail.com
 image: $assets.files.images.mail.png
 
 -- end: ftd.row
